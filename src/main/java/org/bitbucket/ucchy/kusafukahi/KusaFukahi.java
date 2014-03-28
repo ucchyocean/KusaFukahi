@@ -30,7 +30,7 @@ import org.bukkit.scheduler.BukkitRunnable;
 public class KusaFukahi extends JavaPlugin implements Listener {
 
     /** 発言とマッチさせる正規表現 */
-    private static final String CHAT_PATTERN = ".*(www*|WWW*|ｗｗｗ*|ＷＷＷ*).*";
+    private static final String CHAT_PATTERN = ".*(www|WWW|ｗｗｗ|ＷＷＷ).*";
 
     /** エイプリルフール限定で動作させるかどうか */
     private boolean aprilfoolTimer;
