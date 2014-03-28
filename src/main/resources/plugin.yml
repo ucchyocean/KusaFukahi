@@ -1,0 +1,5 @@
+name: ${project.name}
+main: org.bitbucket.ucchy.kusafukahi.KusaFukahi
+version: ${project.version}
+author: ucchy
+description: ${project.description}

@@ -1,0 +1,8 @@
+# ${project.name} v${project.version}
+# @author     ucchy
+# @license    LGPLv3
+# @copyright  Copyright ucchy 2013
+
+aprilfoolTimer: false
+range: 5
+
